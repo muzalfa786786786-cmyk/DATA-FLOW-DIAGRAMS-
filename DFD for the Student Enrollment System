@@ -1,0 +1,9 @@
+Note: Create a DFD for the Student Enrollment System described above. Your DFD should
+include the following components:
+● Processes: Represent processes such as "Course Enrollment," "View Schedule,"
+"Check Grades," "Register Course," and "Calculate Grades."
+● Data Stores: Include data stores for "Student Information," "Course Schedule,"
+"Course Enrollment," and "Grade Records."
+● External Entities: Represent external entities such as "Student" and "Faculty."
+● Data Flows: Clearly illustrate the flow of data between processes, data stores, and
+external entities.
